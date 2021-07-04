@@ -4,6 +4,7 @@ title{
 body{
     font-family: 'Poppins', sans-serif;
     height: 100px;
+    margin: 0%;
 }
 h1{ 
     font-size:500%
@@ -29,5 +30,15 @@ section{
     padding-top: 10%;
    
 }
-
+#link{
+    text-decoration: none;
+    padding: 10px 20px;
+   background-image: linear-gradient(orange, tomato);
+    border-radius: 7px;
+   color: papayawhip;
+   font-weight: 700;
+}.top-bannner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}  
 
